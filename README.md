@@ -1,4 +1,4 @@
-These are all of the lab notebooks for basic machine learning understanding.
+These are all of the lab notebooks for basic machine learning algorithms and techniques understanding.
 
 Must have jupyter notebooks installed and the required libraries, recommended in a venv.
 
